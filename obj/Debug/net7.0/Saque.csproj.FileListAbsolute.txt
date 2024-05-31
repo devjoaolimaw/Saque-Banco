@@ -1,0 +1,14 @@
+c:\dev\Saque\obj\Debug\net7.0\Saque.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Saque\obj\Debug\net7.0\Saque.AssemblyInfoInputs.cache
+c:\dev\Saque\obj\Debug\net7.0\Saque.AssemblyInfo.cs
+c:\dev\Saque\obj\Debug\net7.0\Saque.csproj.CoreCompileInputs.cache
+c:\dev\Saque\bin\Debug\net7.0\Saque.exe
+C:\dev\Saque\bin\Debug\net7.0\Saque.deps.json
+C:\dev\Saque\bin\Debug\net7.0\Saque.runtimeconfig.json
+c:\dev\Saque\bin\Debug\net7.0\Saque.dll
+c:\dev\Saque\bin\Debug\net7.0\Saque.pdb
+c:\dev\Saque\obj\Debug\net7.0\Saque.dll
+c:\dev\Saque\obj\Debug\net7.0\refint\Saque.dll
+c:\dev\Saque\obj\Debug\net7.0\Saque.pdb
+C:\dev\Saque\obj\Debug\net7.0\Saque.genruntimeconfig.cache
+C:\dev\Saque\obj\Debug\net7.0\ref\Saque.dll
